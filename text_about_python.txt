@@ -1,0 +1,54 @@
+We think Python is pretty rad but in all likelihood, the reason you’re reading this is because you don’t know what Python is used for, let alone whether you should use it for programming.
+First off, what industries use Python? Because of its high level of functionality, many industries can’t do without it, including: web development, data science and data analysis, machine learning, startups, and the finance industry, among others.
+Before you decide whether or not to learn Python, let’s break it down into the basics, shall we?
+What is Python?
+Python is a general-purpose coding language — which means that, unlike HTML, CSS, and JavaScript, it can be used for other types of programming, such as: back end development, software development, data science, and writing system scripts (automation), among other uses.
+What are the benefits of Python?
+Python is versatile in terms of functionality and can be used for web scraping and scripting and for writing algorithms and data structures. It’s often used in projects that involve data visualization, automation, artificial intelligence, and data analysis. Compared to other languages, Python has a clean syntax and is popular with software developers and data scientists alike.
+Python is popular among data scientists because it comes with many open-source Python libraries, including: scikit-learn, pandas, SciPy, Matplotlib, NumPy, and frameworks, including Flask and Django. Learning Python is easier now than ever because there are many Python programming tutorials out there, many of which are free.
+BUT…WHY IS IT CALLED PYTHON?
+OK, we couldn’t not mention this:
+The name isn’t some complicated tech metaphor or an acronym. Python is named after Monty Python.
+According to Python.org(opens in a new tab), “When he began implementing Python, Guido van Rossum was also reading the published scripts from ‘Monty Python’s Flying Circus.’ He needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python.”
+Cool, right? Factoids aside, let’s get to the meat of this article — specifically, what people use Python for and what makes it distinct from other coding languages.
+What is Python Used For?
+1. GENERAL-PURPOSE WEB DEVELOPMENT AND BUILDING WEB APPLICATIONS
+Python is one of the simplest programming languages in terms of syntax, and we mean that in a good way.
+According to this great Medium article(opens in a new tab), “Python, unlike other programming languages, emphasizes code readability, and allows you to use English keywords instead of punctuation…The readable and clean code base will help you to maintain and update the software without putting extra time and effort.”
+According to Treehouse’s Python teacher, Kenneth Love (this quote comes from this video(opens in a new tab)), “It’s basically everywhere. It’s super small, so it shows up on embedded devices and pretty much every server, ever.”
+And by everywhere, we mean everywhere. Treehouse points out that Disqus, NASA, PBS, and even Reddit use Python for their websites.
+In fact, Python is one of the languages you can use to program a Raspberry Pi — a single-board computer (not a dessert!) — and there are many real-world projects that promote using a Raspberry Pi to learn Python code and make some cool Python projects(opens in a new tab).
+There are many pre-built Python libraries and web frameworks, including Pyramid, Django, and Flask.(opens in a new tab) Python is especially great for using on back end web development projects — including creating APIs — shortening the amount of time you spend on projects by allowing you to repurpose lines and lines of code.
+For the aspiring back end programmers out there who enjoy high readability and clean syntax, Python is definitely worth looking into.
+2. SCIENTIFIC COMPUTING + DATA SCIENCE
+Python is also used for scientific research and computing (among other real-world applications) and even has several science-friendly or science-specific libraries, like SciPy, scikit-learn, and:
+Astropy for astronomy
+Biopython for biology and bioinformatics
+Graph-tool for statistical analysis of graphs
+Psychopy for neuroscience and experimental psychology
+And lots, lots more. Here’s a list of all of Python’s scientific libraries(opens in a new tab).
+Python’s role in parsing data, scripting, and functionality in terms of writing algorithms is definitely one great advantage of learning it. With tools like pandas and NumPy to help navigate data sets and data visualization, it’s no wonder that Python is one of the most popular programming languages when dealing with big data.
+Thanks to the undeniable rise of data science, chances are that more and more tech roles will revolve around it — and you’ll already have one of the leading languages in your toolkit.
+3. MACHINE LEARNING
+Yes, technically, machine learning falls under data science (#2 on our list), but bear with me here. Using Python for machine learning is pretty cool, so it felt like it warranted an additional line item.
+Machine learning includes things like speech recognition, deep learning, artificial intelligence, financial services, even the recommendations Netflix serves up every time you log in that make you think, “How do they know?!” (Although, fun fact: Netflix also employs a team that manually tags videos as well.)
+Python is used for machine learning via specific machine learning libraries and frameworks including, scikit-learn and TensorFlow.
+For an in-depth dive into how Python is used for writing machine learning algorithms, read this(opens in a new tab).
+4. STARTUPS
+This seems like an odd item to include on the list, but it’s true: startups, especially tech startups, love Python because it’s easy to use and has large scalability potential. And I mean scalability. Take, for example, Dropbox.
+Dropbox started when Drew Houston kept forgetting his flash drive as a student. It was initially a solution he could use for himself, a party of one. By November of 2012, 100 million people were using Dropbox, which was no big deal because… Dropbox was built on Python.
+That meant it was easy to scale Dropbox the second Houston’s idea turned into a pretty big deal.(opens in a new tab)
+5. FINTECH + THE FINANCIAL INDUSTRY
+In 2016, HackerRank released a survey(opens in a new tab) of various industries, revealing which programming languages they were prioritizing when hiring developers, programmers, and engineers. When it came to FinTech, Python dominated the pack.
+But it’s not just FinTech companies. Again according to HackerRank, Python is used all over the financial industry: “Finance tech recruiters will tell you that Python is the fastest growing language in finance in general. If you look at finance technologies, big banks like Bank of America have worked hard to transform their tech stack from legacy code to Python.”
+If you’re interested in working as a software developer in the financial industry, then learning Python and becoming a Python developer would probably be a smart step in the right direction. Talk about massive real-world applications!
+How Do I Learn Python?
+So now you know what Python is used for, how do you go about learning it? There are numerous classes out there, although we’re a little biased toward our own online Python course. Here’s a list of some of our other favorite resources as well:
+ONLINE PYTHON CLASSES AND RESOURCES
+Python by Codecademy(opens in a new tab) (Free)
+Python Tutorial for Beginners(opens in a new tab) (Programming with Mosh)
+Python.org’s Getting Started Guide(opens in a new tab)
+Python courses on EdX(opens in a new tab)
+Python courses on Udemy(opens in a new tab)
+Read our Python-related articles like Python vs. JavaScript, the Python vs. Django, and Tech 101: What is Python?
+PS – If you’d like to learn web development and/or web design skills before learning Python, Skillcrush can help you get there! Our Break Into Tech course is a comprehensive program designed to help total beginners in tech start a new and fulfilling career.
